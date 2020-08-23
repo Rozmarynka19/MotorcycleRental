@@ -1,0 +1,24 @@
+Honda
+CBR
+2005
+0.125
+1
+70
+Kawasaki
+Ninja
+2012
+0.3
+1
+100
+Ducati
+Panigale 959
+2018
+0.955
+1
+200
+Yamaha
+R1
+2012
+1
+0
+200

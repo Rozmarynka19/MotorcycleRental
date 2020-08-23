@@ -1,0 +1,7 @@
+.
+.
+.
+v2.2
+dodano do poprzedniej wersji wskaŸnik unique_ptr + funkcje na jego rzecz i kontener asocjacyjny wraz z funkcjami
+v2.3
+dodano do poprzedniej wersji zapis i odczyt z pliku (na razie dla bazy motocykli) + obs³uga wyj¹tków przy odczycie - np. Ÿle podana œcie¿ka (try catch, throw - manualne wyrzucenie wyj¹tku)
