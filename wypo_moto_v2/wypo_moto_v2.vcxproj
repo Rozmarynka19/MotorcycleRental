@@ -151,7 +151,22 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Data.cpp" />
+    <ClCompile Include="Firma.cpp" />
+    <ClCompile Include="funkcjeMenu.cpp" />
+    <ClCompile Include="Motocykl.cpp" />
+    <ClCompile Include="OsobaFizyczna.cpp" />
+    <ClCompile Include="Pracownik.cpp" />
     <ClCompile Include="wypo_moto_v2.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Data.hpp" />
+    <ClInclude Include="Firma.hpp" />
+    <ClInclude Include="funkcjeMenu.hpp" />
+    <ClInclude Include="Klient.hpp" />
+    <ClInclude Include="Motocykl.hpp" />
+    <ClInclude Include="OsobaFizyczna.hpp" />
+    <ClInclude Include="Pracownik.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
